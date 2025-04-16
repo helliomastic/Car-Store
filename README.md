@@ -1,18 +1,6 @@
-# Welcome to your Lovable project
-
-## Project info
+# Welcome to Car-Market Web
 
 
-
-## How can I edit this code?
-
-
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 
 
@@ -36,7 +24,7 @@ npm run dev
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Make your changes and commit them.
 
 **Use GitHub Codespaces**
 
@@ -56,11 +44,11 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
 
 
-## Can I connect a custom domain to my Lovable project?
+
+
 
 Yes, you can!
 
